@@ -1,10 +1,6 @@
 # Analysis-of-Bursa-s-Cultural-and-Historical-Heritage
 The tourist attractions of Bursa were analyzed using Argis Pro
 
-GitHub için hazırlayacağımız README.md dosyası, LinkedIn paylaşımından biraz daha farklı olarak "teknik dökümantasyon" odaklı olmalı. Bir veri bilimci veya yazılımcı profilinize baktığında projenin mimarisini ve hangi araçlarla nasıl bir veri seti kurguladığınızı net bir şekilde görebilmeli.
-
-İşte GitHub profilin için profesyonel bir tanıtım yazısı (README) taslağı:
-
 Bursa Digital Heritage & GIS Project 🏛️🛰️
 This project focuses on the digital preservation and spatial analysis of Bursa’s UNESCO World Heritage sites using ArcGIS Pro and Web-GIS technologies. Developed as a part of the Management Information Systems (MIS) curriculum at Izmir Bakircay University.
 
